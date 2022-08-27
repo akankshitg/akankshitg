@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akankshitg
 - 👀 I’m interested in developing new things or we call it innovation
-- 🌱 I’m currently learning Web development, Ai and ML
+- 🌱 I’m currently working as a software developer in a Fintech startup.
 - 💞️ I’m looking to collaborate on new innovative project ideas to make a world better living place 
 - 📫 You can reach me at: akankshitgahlout@gmail.com
 
